@@ -1,0 +1,9 @@
+*.ipynb
+*.txt
+*.pt
+datasets/*
+models/*
+results/*
+wandb/
+runs/
+utils/__pycache__/
